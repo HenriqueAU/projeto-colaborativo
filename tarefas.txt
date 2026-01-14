@@ -1,2 +1,4 @@
 Configurar ambiente
 Criar estrutura do projeto
+Tarefa 1
+Tarefa 2
